@@ -12,3 +12,4 @@ C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaExamenFinalProg\obj\Debu
 C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaExamenFinalProg\obj\Debug\net8.0\csi23iloposaExamenFinalProg.pdb
 C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaExamenFinalProg\obj\Debug\net8.0\csi23iloposaExamenFinalProg.genruntimeconfig.cache
 C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaExamenFinalProg\obj\Debug\net8.0\ref\csi23iloposaExamenFinalProg.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\csi23iloposaExamenFinalProg\obj\Debug\net8.0\csi23iloposaExamenFinalProg.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csi23iloposaExamenFinalProg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+451662a1a6c7596382396047dec00c1b6a47bdac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e4bc8d709fab9ed3a5934b34cce6c2510a1ec37")]
 [assembly: System.Reflection.AssemblyProductAttribute("csi23iloposaExamenFinalProg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csi23iloposaExamenFinalProg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

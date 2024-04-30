@@ -15,8 +15,7 @@ namespace csi23iloposaExamenFinalProg.Servicios
     {
         public bool validacionDNI()
         {
-            try
-            {
+            
                 bool validacion = false;
                 do
                 {
@@ -79,8 +78,7 @@ namespace csi23iloposaExamenFinalProg.Servicios
 
             
             return validacion;
-            }
-            catch (Exception) { throw; }
+            
         }
     }
 }
