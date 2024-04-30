@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\csi23iloposaexamenfinalprog\\servicios\\menuimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|solutionrelative:servicios\\menuimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\csi23iloposaexamenfinalprog\\controladores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|solutionrelative:controladores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\csi23iloposaexamenfinalprog\\servicios\\operativaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|solutionrelative:servicios\\operativaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\csi23iloposaexamenfinalprog\\servicios\\ficheroimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|solutionrelative:servicios\\ficheroimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\csi23iloposaexamenfinalprog\\servicios\\ficherointerfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|solutionrelative:servicios\\ficherointerfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\csi23iloposaexamenfinalprog\\servicios\\operativainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|solutionrelative:servicios\\operativainterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\csi23iloposaexamenfinalprog\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\csi23iloposaexamenfinalprog\\servicios\\operativaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|solutionrelative:servicios\\operativaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|c:\\users\\csi23-iloposa\\desktop\\programacion\\csi23iloposaexamenfinalprog\\servicios\\menuinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08600D81-52C4-4B60-BCB8-EFA30BBBA267}|csi23iloposaExamenFinalProg.csproj|solutionrelative:servicios\\menuinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FicheroImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\FicheroImplementacion.cs",
+              "RelativeDocumentMoniker": "Servicios\\FicheroImplementacion.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\FicheroImplementacion.cs",
+              "RelativeToolTip": "Servicios\\FicheroImplementacion.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:24:21.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperativaInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\OperativaInterfaz.cs",
+              "RelativeDocumentMoniker": "Servicios\\OperativaInterfaz.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\OperativaInterfaz.cs",
+              "RelativeToolTip": "Servicios\\OperativaInterfaz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:43:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperativaImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\OperativaImplementacion.cs",
+              "RelativeDocumentMoniker": "Servicios\\OperativaImplementacion.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\OperativaImplementacion.cs",
+              "RelativeToolTip": "Servicios\\OperativaImplementacion.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:23:52.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "Dtos\\UsuarioDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:32:30.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\MenuImplementacion.cs",
+              "RelativeDocumentMoniker": "Servicios\\MenuImplementacion.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\MenuImplementacion.cs",
+              "RelativeToolTip": "Servicios\\MenuImplementacion.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCoAAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:11:28.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Controladores\\Program.cs",
+              "RelativeDocumentMoniker": "Controladores\\Program.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Controladores\\Program.cs",
+              "RelativeToolTip": "Controladores\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:08:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FicheroInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\FicheroInterfaz.cs",
+              "RelativeDocumentMoniker": "Servicios\\FicheroInterfaz.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\FicheroInterfaz.cs",
+              "RelativeToolTip": "Servicios\\FicheroInterfaz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:24:33.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OperativaImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\OperativaImplementacion.cs",
+              "RelativeDocumentMoniker": "Servicios\\OperativaImplementacion.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\OperativaImplementacion.cs",
+              "RelativeToolTip": "Servicios\\OperativaImplementacion.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:49:15.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\MenuInterfaz.cs",
+              "RelativeDocumentMoniker": "Servicios\\MenuInterfaz.cs",
+              "ToolTip": "C:\\Users\\csi23-iloposa\\Desktop\\Programacion\\csi23iloposaExamenFinalProg\\Servicios\\MenuInterfaz.cs",
+              "RelativeToolTip": "Servicios\\MenuInterfaz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:11:42.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
